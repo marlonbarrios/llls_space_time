@@ -3,6 +3,8 @@
 
 by Marlon Barrios Solano
 
+February 9th 2016
+
 ## Introduction
 
 Large language models (LLMs) trained purely on text have demonstrated surprising capacities that hint at an internal “world model” of sorts. A recent paper by Wes Gurnee and Max Tegmark, *Language Models Represent Space and Time*, tackles a key question: do LLMs merely memorize superficial word correlations, or do they form coherent representations that reflect real-world structures? The authors provide evidence for the latter, showing that LLMs encode aspects of space and time in their latent representations. In other words, even without direct perception or embodiment, a language model can develop an internal map of the world and a timeline of history. This finding challenges assumptions in cognitive science and AI that grounded sensory experience is necessary for spatial and temporal understanding. It appears that through the process of compressing vast textual data, LLMs learn compact, interpretable structures corresponding to geographic and chronological knowledge.
